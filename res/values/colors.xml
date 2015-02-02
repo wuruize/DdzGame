@@ -1,0 +1,5 @@
+<resources>
+    <color name="selectHeadFrameColor">#D3D3D3</color>
+<color name="selectHeadContentColor">#48D1CC</color>
+<color name="about_bg">#2F4F4F</color>
+</resources>

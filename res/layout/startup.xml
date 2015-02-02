@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="horizontal" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:paddingLeft="500px"
+	 >
+	<LinearLayout android:orientation="vertical" android:layout_marginLeft="50px"
+		 android:layout_width="205px"  android:paddingTop="50px" android:layout_marginTop="165px"
+		android:layout_height="324px" >
+		<Button android:id="@+id/start_game" android:layout_marginLeft="50px" android:text="开始游戏"
+			android:layout_width="150px" android:layout_height="65px"
+			/>
+		<Button android:id="@+id/game_about" android:text="关于游戏" android:layout_marginLeft="50px"
+			android:layout_width="150px" android:layout_height="65px"
+			/>
+		
+	</LinearLayout>
+</LinearLayout>

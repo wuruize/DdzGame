@@ -1,0 +1,15 @@
+<resources>
+    <style name="screenStyle">
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    
+    <style name="font_dgf" >
+	  <!-- 定义与指定View相关的若干属性 -->
+	  <item name="android:textStyle">bold|italic</item>
+	  <item name="android:typeface">serif</item>
+	   <item name="android:textColor">#ffdd00</item> 
+	   <item name="android:textSize">40px</item>
+	   
+	</style>
+</resources>
